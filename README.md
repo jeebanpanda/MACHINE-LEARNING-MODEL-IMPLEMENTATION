@@ -57,6 +57,7 @@ weighted avg       0.97    0.97    0.97      1115
 Confusion Matrix:
 [[965   0]
  [ 31 119]]
+```
 ![Image](https://github.com/user-attachments/assets/d04b1982-7cd9-4401-a8d4-4d1b63d310d2)
 
 
