@@ -1,4 +1,11 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
+##
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: JEEBAN PRADEEP PANDA
+*INTERN ID*: CT08OLX
+*DOMAIN*: PYTHON PROGRAMMING
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 ## Description
 This Python project implements an **SMS Spam Detection Model** using **Naïve Bayes** classification. The script processes a dataset containing SMS messages labeled as `spam` or `ham` (not spam), applies **TF-IDF vectorization**, and trains a **Multinomial Naïve Bayes model** to classify messages.
